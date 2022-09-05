@@ -1,1 +1,1 @@
-This is the [^1]README file for the git repo *initialized* using **vagrant**
+This is the [^1] README file for the git repo *initialized* using **vagrant**
